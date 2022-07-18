@@ -110,7 +110,7 @@ display: flex;
         width: 100%;
     }
     .players, .blogs,  .courses{
-        background-color: #aeaeae;
+        background-color:cornflowerblue;
         grid-template-columns: repeat(1,1fr);
     }
     .player, .blog{
@@ -125,5 +125,5 @@ display: flex;
    .players, .courses{
     grid-template-columns: repeat(2,1fr);
    }
-   
+
 }
