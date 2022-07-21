@@ -110,7 +110,7 @@ display: flex;
         width: 100%;
     }
     .players, .blogs,  .courses{
-        background-color:cornflowerblue;
+        background-color: #FFFFFF;
         grid-template-columns: repeat(1,1fr);
     }
     .player, .blog{
